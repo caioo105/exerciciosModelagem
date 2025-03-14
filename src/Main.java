@@ -25,6 +25,15 @@ public class Main {
 
 //        List<String> emails = Arrays.asList("TESTE@EXEMPLO.COM", "exemplo@Java.com ", "Usuario@teste.Com");
 //        System.out.println(converterEmails(emails));
+
+//        System.out.println(Mes.FEVEREIRO.getNumeroDeDias());
+//        System.out.println(Mes.JULHO.getNumeroDeDias());
+
+//        System.out.println(Moeda.DOLAR.converterPara(100));
+//        System.out.println(Moeda.EURO.converterPara(100));
+
+//        System.out.println(CodigoErro.NOT_FOUND.getCodigo());
+//        System.out.println(CodigoErro.BAD_REQUEST.getDescricao());
     }
 //    public static Optional<Integer> processaNumero(Optional<Integer> numero) {
 //        return numero.filter(n -> n > 0).map(n -> n * n);
